@@ -1,0 +1,57 @@
+# 🔐 Sensitive files
+.env
+*.keystore
+*.jks
+*.p12
+*.pem
+
+# Dependency locks (optional)
+pubspec.lock
+
+# Build outputs
+/build/
+**/build/
+*.apk
+*.ipa
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.pyc
+*.class
+*.obj
+*.o
+
+# IDE & Editor configs
+.idea/
+*.iml
+*.iws
+*.ipr
+.atom/
+.vscode/
+.svn/
+.history
+
+# Dart & Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+**/ios/Flutter/.last_build_id
+
+# Symbolication & Obfuscation
+app.*.symbols
+app.*.map.json
+
+# macOS
+.DS_Store
+
+# Android Studio temporary folders
+/android/app/debug/
+/android/app/profile/
+/android/app/release/

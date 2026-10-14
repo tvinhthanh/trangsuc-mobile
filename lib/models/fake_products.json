@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Sản phẩm new 1",
+    "image": "assets/images/ring.png",
+    "price": 19846119,
+    "rating": 3.6,
+    "category": "fashion",
+    "type": "ring"
+  },
+  {
+    "name": "Sản phẩm new 2",
+    "image": "assets/images/ring.png",
+    "price": 22454754,
+    "rating": 4.1,
+    "category": "fashion",
+    "type": "ring"
+  },
+  {
+    "name": "Sản phẩm couple-ring 1",
+    "image": "assets/images/ring.png",
+    "price": 36288421,
+    "rating": 3.6,
+    "category": "wedding",
+    "type": "ring"
+  },
+  {
+    "name": "Sản phẩm couple-ring 2",
+    "image": "assets/images/ring.png",
+    "price": 29581447,
+    "rating": 4.2,
+    "category": "wedding",
+    "type": "ring"
+  },
+  {
+    "name": "Sản phẩm ring 1",
+    "image": "assets/images/ring.png",
+    "price": 17780004,
+    "rating": 4.3,
+    "category": "fashion",
+    "type": "ring"
+  },
+  {
+    "name": "Sản phẩm ring 2",
+    "image": "assets/images/ring.png",
+    "price": 18567004,
+    "rating": 3.7,
+    "category": "fashion",
+    "type": "ring"
+  },
+  {
+    "name": "Sản phẩm necklace 1",
+    "image": "assets/images/ring.png",
+    "price": 34309439,
+    "rating": 4.9,
+    "category": "luxury",
+    "type": "necklace"
+  },
+  {
+    "name": "Sản phẩm necklace 2",
+    "image": "assets/images/ring.png",
+    "price": 28180376,
+    "rating": 3.9,
+    "category": "luxury",
+    "type": "necklace"
+  },
+  {
+    "name": "Sản phẩm bangle 1",
+    "image": "assets/images/ring.png",
+    "price": 19998592,
+    "rating": 4.4,
+    "category": "daily",
+    "type": "bangle"
+  },
+  {
+    "name": "Sản phẩm bangle 2",
+    "image": "assets/images/ring.png",
+    "price": 32189178,
+    "rating": 4.7,
+    "category": "daily",
+    "type": "bangle"
+  },
+  {
+    "name": "Sản phẩm bracelet 1",
+    "image": "assets/images/ring.png",
+    "price": 34845372,
+    "rating": 4.8,
+    "category": "fashion",
+    "type": "bracelet"
+  },
+  {
+    "name": "Sản phẩm bracelet 2",
+    "image": "assets/images/ring.png",
+    "price": 11416290,
+    "rating": 4.7,
+    "category": "fashion",
+    "type": "bracelet"
+  },
+  {
+    "name": "Sản phẩm earrings 1",
+    "image": "assets/images/ring.png",
+    "price": 31833505,
+    "rating": 4.9,
+    "category": "party",
+    "type": "earrings"
+  },
+  {
+    "name": "Sản phẩm earrings 2",
+    "image": "assets/images/ring.png",
+    "price": 39946578,
+    "rating": 4.1,
+    "category": "party",
+    "type": "earrings"
+  },
+  {
+    "name": "Sản phẩm lock 1",
+    "image": "assets/images/ring.png",
+    "price": 12463018,
+    "rating": 3.6,
+    "category": "fengshui",
+    "type": "lock"
+  },
+  {
+    "name": "Sản phẩm lock 2",
+    "image": "assets/images/ring.png",
+    "price": 20916988,
+    "rating": 4.9,
+    "category": "fengshui",
+    "type": "lock"
+  },
+  {
+    "name": "Sản phẩm pendant 1",
+    "image": "assets/images/ring.png",
+    "price": 15244430,
+    "rating": 4.1,
+    "category": "gift",
+    "type": "pendant"
+  },
+  {
+    "name": "Sản phẩm pendant 2",
+    "image": "assets/images/ring.png",
+    "price": 37716558,
+    "rating": 4.4,
+    "category": "gift",
+    "type": "pendant"
+  },
+  {
+    "name": "Sản phẩm charm 1",
+    "image": "assets/images/ring.png",
+    "price": 14035701,
+    "rating": 4.1,
+    "category": "daily",
+    "type": "charm"
+  },
+  {
+    "name": "Sản phẩm charm 3",
+    "image": "assets/images/ring.png",
+    "price": 14035701,
+    "rating": 4.1,
+    "category": "daily",
+    "type": "charm"
+  },
+  {
+    "name": "Sản phẩm charm 4",
+    "image": "assets/images/ring.png",
+    "price": 14035701,
+    "rating": 4.1,
+    "category": "daily",
+    "type": "charm"
+  },
+  {
+    "name": "Sản phẩm charm 2",
+    "image": "assets/images/ring.png",
+    "price": 39181662,
+    "rating": 4.4,
+    "category": "daily",
+    "type": "charm"
+  }
+]
